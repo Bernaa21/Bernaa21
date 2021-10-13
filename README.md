@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Greetings, I'm Thiago! I'm taking my first steps towards programming!!
+Greetings from Brazil, I'm Thiago! I'm taking my first steps towards programming!!
 
 - 👻 I'm learning Front-End Development
 - 📝 Currently studying JavaScript
