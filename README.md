@@ -2,7 +2,7 @@
 
 Greetings, I'm Thiago! I'm taking my first steps towards programming!!
 
-- 👻 Developing my front-end
+- 👻 I'm learning Front-End Development
 - 📝 Currently studying JavaScript
 
 <div align="center">
