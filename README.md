@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Muito prazer, Sou o Thiago! Estou dando meus primeiros passos em programação!!
+Greetings, I'm Thiago! I'm taking my first steps towards programming!!
 
-- 👻 Me desenvolvendo em front-end
-- 📝 Atualmente estudando JavaScript
+- 👻 Developing my front-end
+- 📝 Currently studying JavaScript
 
 <div align="center">
   <a href="https://github.com/Bernaa21">
