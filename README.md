@@ -32,7 +32,7 @@ Greetings from Brazil, I'm Thiago! I'm taking my first steps towards programming
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Bernaa21/count.svg" />
  </p>
 
 </p>
