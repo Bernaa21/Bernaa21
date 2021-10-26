@@ -29,12 +29,4 @@ Greetings from Brazil, I'm Thiago! I'm taking my first steps towards programming
   <a href ="https://github.com/Bernaa21" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
   
-<p align="center"> 
-
- ## Cliques no meu perfil :detective: <br>
- <p align="left"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Bernaa21/count.svg" />
- </p>
-
-</p>
 
