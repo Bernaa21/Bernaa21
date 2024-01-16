@@ -2,8 +2,8 @@
 
 Greetings from Brazil, I'm Thiago! I'm taking my first steps towards programming!!
 
-- 👻 I'm learning Front-End Development
-- 📝 Currently studying JavaScript
+- 👻 I'm learning Back-End
+- 📝 Currently studying Java and Python ( new projects coming soon! )
 
 <div align="center">
   <a href="https://github.com/Bernaa21">
