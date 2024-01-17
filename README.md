@@ -18,10 +18,7 @@ Greetings from Brazil, I'm Thiago! I'm taking my first steps towards programming
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
-  <img align="right" alt="gif" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/770878365590749224/897557485819416636/ezgif.com-gif-maker.gif?
-
-
-  width=676&height=676">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/770878365590749224/897557485819416636/ezgif.com-gif-maker.gif?width=676&height=676">
 
 </div>
 
